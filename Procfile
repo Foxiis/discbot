@@ -1,1 +1,1 @@
-worker: node discbot.py
+worker: python discbot.py
